@@ -1,0 +1,20 @@
+.parent_cont_d {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: mistyrose;
+    top: 8%;
+    left: 3%;
+    right: 3%;
+    bottom: 3%;
+    display: block;
+    position: absolute;
+}
+
+.row1_d {
+    background-color: burlywood;
+    position: relative;
+}
+
+.navlbl {
+    background-color: aquamarine;
+
+}
